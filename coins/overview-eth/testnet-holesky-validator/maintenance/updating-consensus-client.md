@@ -1,26 +1,25 @@
 ---
 description: >-
-  Scenario: In discord, you see an alert that your consensus client just
-  announced a new release. How best to update?
+  Scenario: En tu discord, tu puedes ver las alertas In discord en el consencionario de clienges, solo anunciando lo nuevo que esta pasando, ¿Cual es la mejor manera de usarlo?
+ 
 ---
 
-# Updating Consensus Client
+# Actualizando el consencionario de clientes 
 
-## :rocket: Automated Updates
+## :rocket: Automatizando Actualizaciones 
 
 :pill:**Install** [**EthPillar**](../../ethpillar.md): a simple companion UI for node management!&#x20;
 
-Update your software with a keystroke.
+Actualizando tu software con keystroke.
 
-To update, navigate to
-
+Para buscar y navegar en
 `EthPillar > Consensus Client > Update to latest release`
 
 <figure><img src="../../../../.gitbook/assets/cl-update.png" alt=""><figcaption><p>EthPillar Update</p></figcaption></figure>
 
-## :fast\_forward: Manual Updates
+## :fast\_forward: Manual de actualizacion
 
-When a new release is cut, you will want to update to the latest stable release. The following shows you how to update your beacon chain and validator.
+Cuando se realiza algun nuevo corte,tu tienes que actualizar a la anteriormente establecida, Sigue los pasos de como actualizar su BlockChain y validador
 
 {% hint style="warning" %}
 Always review the **release notes** before updating. There may be changes requiring your attention.
